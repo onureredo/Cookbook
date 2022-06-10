@@ -261,10 +261,22 @@
 
 
 
-#galactic-cocktails {
+#galactic-cocktails,
+#rice-fried-rice,
+#last-world-cocktail {
     display: none;
 }
 
-#last-world-cocktail {
-    display: none;
+
+.container {
+    margin-bottom: 20px;
+}
+
+.row h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    color: #8170cd;
+    text-decoration: none;
+    
 }
