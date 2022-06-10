@@ -34,7 +34,7 @@
 /*NAVBAR ONLY */
 .menu {
     height: 100px;
-    width: 80%;
+    width: 100%;
     padding: 10px;
     padding-right: 20%;
     display: flex;
@@ -43,14 +43,14 @@
     list-style: none;  
     border-bottom-right-radius: 75%;
     /*OPTION 1 RED*/
-    background: linear-gradient(to right, #b92125, #a52d31, #d17134);
+    /* background: linear-gradient(to right, #b92125, #a52d31, #d17134); */
     /* OPTION 2 FADE */
-    /* background: linear-gradient(to right, #644ccf, #d17134,  #b92125); MOVE TO L-153 */
+    background: linear-gradient(to right, #644ccf, #d17134,  #b92125); /* MOVE TO L-153*/
     
 }
 
 .menu li {
-    height: 20%; /* << Height of the border by hovereffect*/
+    height: 50%; /* << Height of the border by hovereffect*/
     font-size: 1rem;
     position: relative;
     display: flex;
@@ -145,9 +145,9 @@
 
 .footer-container {
     /* OPTION 1 RED << ALSO CHANGE THE LINE 56*/ 
-    background: linear-gradient(to right, #b92125, #a52d31, #d17134);
+    /* background: linear-gradient(to right, #b92125, #a52d31, #d17134); */
     /* OPTION 2 FADE */
-    /* background: linear-gradient(to right, #644ccf, #d17134,  #b92125); MOVE TO L-54 */
+    background: linear-gradient(to right, #644ccf, #d17134,  #b92125); /* MOVE TO L-54*/
     
 }
 
