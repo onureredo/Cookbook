@@ -1,7 +1,7 @@
 ### WBS CODING SCHOOL Full-Stack Web & App Development Bootcamp
 ### WEEK 2 | PROJECT Cookbook
 
-w/ @anoj-kt, @chinch42, alikhaleghzadegan
+w/ @alikhaleghzadegan, @anoj-kt, @chinch42
 
 
  ### started 11.06.2022  
